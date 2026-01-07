@@ -10,7 +10,7 @@ This repository presents a ROS 2–based visualization project for the ROBOTIS O
 
 ## 🤖 Introduction to OP3
 
-ROBOTIS OP3 (Open Platform 3) is an open-source humanoid robot platform designed for robotics research and education. It provides modular hardware, extensible software, and comprehensive documentation, making it an ideal platform for studying robot kinematics, motion planning, and system integration. 
+ROBOTIS OP3 is the successor to the ROBOTIS OP2 (or OP). It features DYNAMIXEL XM-430 actuators that utilize Protocol 2.0, offering higher torque and supporting current-based control. Furthermore, OP3 is powered by an Intel Core i3 NUC platform, which supports 64-bit operating systems and Bluetooth 5.0.
 
 ---
 
