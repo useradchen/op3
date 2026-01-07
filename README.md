@@ -66,21 +66,22 @@ After executing `python3 op3_ik.py`, the OP3 robot in RViz will move according t
 ## 🦿Inverse Kinematics
 ![IK](picture/IK_leg1.png)
 ![IK](picture/IK_leg2.png)
-![IK](picture/IK.png)
+<img src="picture/IK.png" alt="IK" width="600">
 
 ## 🖼️ RViz Visualization
 
 The following figure shows the OP3 humanoid robot successfully visualized in RViz using ROS 2:
 
-![RViz Visualization](picture/rviz.png)
-*Figure 1. OP3 robot model visualization in RViz.*
+<img src="picture/rviz.png" alt="RViz Visualization" width="600">
+*OP3 robot model visualization in RViz.*
 
 ---
 
 ## 🎥 Demonstration Video
 
-[![Video Thumbnail](https://img.youtube.com/vi/HrSheeFqyoc/maxresdefault.jpg)](https://www.youtube.com/watch?v=HrSheeFqyoc)
-
+<a href="https://www.youtube.com/watch?v=HrSheeFqyoc">
+  <img src="https://img.youtube.com/vi/HrSheeFqyoc/maxresdefault.jpg" width="600" alt="Video Thumbnail">
+</a>
 ---
 
 ## 📚 Notes
