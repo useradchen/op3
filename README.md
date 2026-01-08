@@ -79,8 +79,8 @@ The following figure shows the OP3 humanoid robot successfully visualized in RVi
 
 ## 🎥 Demonstration Video
 
-<a href="https://www.youtube.com/watch?v=HrSheeFqyoc">
-  <img src="https://img.youtube.com/vi/HrSheeFqyoc/maxresdefault.jpg" width="600" alt="Video Thumbnail">
+<a href="https://youtu.be/8SOFQ4jlZAg">
+  <img src="https://img.youtube.com/vi/8SOFQ4jlZAg/maxresdefault.jpg" width="600" alt="Video Thumbnail">
 </a>
 ---
 
